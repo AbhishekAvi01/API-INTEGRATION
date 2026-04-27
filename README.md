@@ -24,7 +24,7 @@ A visually stunning, full-stack weather dashboard built with a modern React fron
 - **dotenv** (Environment variable management)
 - **CORS** (Cross-Origin Resource Sharing)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 .
@@ -88,3 +88,7 @@ The backend exposes the following endpoints:
 
 ---
 *Built to impress with a focus on design and user experience.*
+
+
+## Output
+<img width="1918" height="881" alt="Image" src="https://github.com/user-attachments/assets/aac91227-eb7f-4889-8fab-6fb65d7ad301" />
