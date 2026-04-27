@@ -1,11 +1,16 @@
 ## API INTEGRATION
 
 *COMPANY* : CODTECH IT SOLUTION
+
 *NAME* : ABHISHEK KUMAR
+
 *INTERN ID* : CTIS4271
+
 *DOMAIN* : FULL STACK WEB DEVELOPMENT
+
 *DURATION* : 16 WEEKS
-*MENTOR* : Neela Santhosh Kumar  
+
+*MENTOR* :NEELA SANTOSH KUMAR 
 
 
 # Premium Full-Stack Weather Application 
@@ -20,7 +25,7 @@ A visually stunning, full-stack weather dashboard built with a modern React fron
 - **Skeleton Loaders**: High-quality loading states that prevent UI jumps while data is fetching.
 - **Fully Responsive**: Adapts perfectly to mobile, tablet, and desktop screens using modern CSS Grid and Flexbox.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React.js** (Bootstrapped with Vite)
