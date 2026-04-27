@@ -1,11 +1,21 @@
-# Premium Full-Stack Weather Application 🌤️
+## API INTEGRATION
+
+*COMPANY* : CODTECH IT SOLUTION
+*NAME* : ABHISHEK KUMAR
+*INTERN ID* : CTIS4271
+*DOMAIN* : FULL STACK WEB DEVELOPMENT
+*DURATION* : 16 WEEKS
+*MENTOR* : Neela Santhosh Kumar  
+
+
+# Premium Full-Stack Weather Application 
 
 A visually stunning, full-stack weather dashboard built with a modern React frontend and a robust Node.js/Express backend. The application fetches real-time weather data and daily forecasts from the [Open-Meteo API](https://open-meteo.com/).
 
-## ✨ Features
+##  Features
 
 - **Premium UI/UX**: Clean layout using **Glassmorphism**, soft shadows, and vibrant gradient backgrounds.
-- **Dark Mode Support 🌙**: Seamless light/dark theme toggling with smooth transitions.
+- **Dark Mode Support **: Seamless light/dark theme toggling with smooth transitions.
 - **Live Search with Autocomplete**: Search for any city worldwide; suggestions are powered by a geocoding API.
 - **Skeleton Loaders**: High-quality loading states that prevent UI jumps while data is fetching.
 - **Fully Responsive**: Adapts perfectly to mobile, tablet, and desktop screens using modern CSS Grid and Flexbox.
@@ -40,7 +50,7 @@ A visually stunning, full-stack weather dashboard built with a modern React fron
     └── package.json
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to run the application locally.
 
@@ -76,7 +86,7 @@ Follow these steps to run the application locally.
    ```
    *The React app will be available at `http://localhost:5173`.*
 
-## 🌐 API Reference
+##  API Reference
 
 The backend exposes the following endpoints:
 
